@@ -1,0 +1,4 @@
+fastapi
+rdflib
+rdflib-endpoint
+uvicorn
